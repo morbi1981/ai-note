@@ -5,3 +5,5 @@ Hugging Face的相关资料整理。
 >该翻译学习框架主要以Pytorch为主，Tensorflow为辅。
 ## Transformers
 用于PyTorch、TensorFlow和JAX的最先进的机器学习。
+
+翻译版本：V4.29.1
